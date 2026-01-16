@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1006495870846",
+    "firebase_url": "https://drplant-9aa65-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "drplant-9aa65",
+    "storage_bucket": "drplant-9aa65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006495870846:android:b9e9eba58c939451c78d2f",
+        "android_client_info": {
+          "package_name": "com.app.codefuse.drplant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Ft7MW0xgrwK75ig2hNXr1RiLsm6UPZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006495870846:android:95c86cfc83ea8505c78d2f",
+        "android_client_info": {
+          "package_name": "com.app.planter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Ft7MW0xgrwK75ig2hNXr1RiLsm6UPZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
